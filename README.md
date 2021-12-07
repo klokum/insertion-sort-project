@@ -15,10 +15,10 @@ O(n^2)
 
 ## 3.Time Complexity: Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-Time Complexity = n^2
-Average case = 16, 18
-Worst case = 27
-Best case = 2
+- Time Complexity = n^2
+- Average case = 16, 18
+- Worst case = 27
+- Best case = 2
 
 ## 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
